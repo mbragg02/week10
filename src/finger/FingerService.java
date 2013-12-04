@@ -19,4 +19,5 @@ public interface FingerService extends Remote {
 	 * @throws RemoteException
 	 */
 	public String getConnected() throws RemoteException;
+
 }
